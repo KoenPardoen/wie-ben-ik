@@ -1,0 +1,79 @@
+body{
+  background-image:url(Images/background.jpeg);
+}
+
+div.pers{
+  display: flex;
+  justify-content: space-around;
+}
+
+header,footer{
+padding: 12px;
+border-radius: 5px;
+color: white;
+background-color: rgba(20, 110, 255, 0.8);
+clear: left;
+text-align: center;
+}
+
+header{
+  padding: 2px;
+}
+
+div.left{
+width: 450px;
+}
+
+div.left img{
+  border-radius: 5px;
+}
+
+div.right{
+ width: 30%;
+ align: righ
+}
+
+h1{
+  text-align: center;
+  color:white;
+  font-family: Arial
+}
+
+h3{
+  color: rgb(20, 110, 255);
+  font-family: Arial;
+}
+
+p{
+  line-height: 130%;
+  font-family: Arial
+}
+
+ul{
+  font-family: arial;
+}
+
+a:link{
+  color:white;
+  text-decoration:none;
+}
+
+a:visited{
+  color:white;
+  text-decoration:none;
+}
+
+a:hover{
+  color:white;
+  text-decoration:none;
+}
+
+a:active{
+  color:white;
+  text-decoration:none;
+}
+  
+div.THV{
+  display: flex;
+  justify-content: space-around;
+}
