@@ -8,12 +8,12 @@ div.pers{
 }
 
 header,footer{
-padding: 12px;
-border-radius: 5px;
-color: white;
-background-color: rgba(20, 110, 255, 0.8);
-clear: left;
-text-align: center;
+  padding: 12px;
+  border-radius: 5px;
+  color: white;
+  background-color: rgba(20, 110, 255, 0.8);
+  clear: left;
+  text-align: center;
 }
 
 header{
@@ -30,7 +30,6 @@ div.left img{
 
 div.right{
  width: 30%;
- align: righ
 }
 
 h1{
@@ -72,8 +71,8 @@ a:active{
   color:white;
   text-decoration:none;
 }
-  
-div.THV{
+
+div.THV {
   display: flex;
   justify-content: space-around;
 }
