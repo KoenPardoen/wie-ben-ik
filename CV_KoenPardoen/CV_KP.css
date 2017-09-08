@@ -19,6 +19,17 @@ header,footer{
 header{
   padding: 2px;
 }
+ #foto{
+   width: 175px;
+   height: 215px;
+   float:right;
+ }
+
+ #linked{
+    width: auto;
+    height: 15px;
+    border: 0;
+ }
 
 div.left{
 width: 450px;
